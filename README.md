@@ -1,10 +1,10 @@
 <img src="https://capsule-render.vercel.app/api?type=Waving&color=78B2D1&height=200&section=header&text=Unnimm%20GitHub&fontSize=50&fontColor=ffffff&fontAlignY=37" />
 <div align="center">
 <h2>🖋️ Record</h2>
-<p>충북대학교 소프트웨어학과/의류학과 재학 2021.3 ~ </p>
-<p>충북대학교 직무잡아드림 IT동아리 코어 회장 2022.3 ~ 2025.3</p>
-<p>창업 동아리 코어스 회장 2022.3 ~ </p>
-<p>큐시즘 31기 학회원 2025.2 ~ </p>
+<p>충북대학교 소프트웨어학과/의류학과 재학 2021.03 ~ </p>
+<p>충북대학교 직무잡아드림 IT동아리 코어 회장 2022.03 ~ 2025.03</p>
+<p>창업 동아리 코어스 회장 2022.03 ~ </p>
+<p>큐시즘 31기 학회원 2025.02 ~ 2025.06</p>
 <br/>
 </div>
 
