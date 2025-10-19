@@ -5,14 +5,15 @@
 <p>충북대학교 직무잡아드림 IT동아리 코어 회장 2022.03 ~ 2025.03</p>
 <p>창업 동아리 코어스 회장 2024.03 ~ </p>
 <p>큐시즘 31기 학회원 2025.02 ~ 2025.06</p>
-  <p>큐시즘 32기 학회원 2025.08 ~ 2025.12</p>
+<p>큐시즘 32기 학회원 2025.08 ~ 2025.12</p>
 <br/>
 </div>
 
 <div align="center">
-<h2>🛠️ </h2>
-  <link>https://stone-mochi-94c.notion.site/2912f23b094f80c2a026f32f02a14269</link>
+<h2>🛠️ Portfolio </h2>
+  <link>[황유림의 포트폴리오](https://stone-mochi-94c.notion.site/2912f23b094f80c2a026f32f02a14269)</link>
 
+<br/>
 <br/>
 <div align="center">
 <h2>📊 statistics</h2>
