@@ -10,18 +10,8 @@
 </div>
 
 <div align="center">
-<h2>🛠️ Technologies & Tools</h2>
-
-<code style="display: inline-flex; justify-content: center; align-items: center;"><img height="20" width="20"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"></code>
-<code style="display: inline-flex; justify-content: center; align-items: center;"><img height="20" width="20"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"></code>
-<code style="display: inline-flex; justify-content: center; align-items: center;"><img height="20" width="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code style="display: inline-flex; justify-content: center; align-items: center;"><img height="20" width="20"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code style="display: inline-flex; justify-content: center; align-items: center;"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code style="display: inline-flex; justify-content: center; align-items: center;"><img height="20" width="20" src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg"></code>
-<code style="display: inline-flex; justify-content: center; align-items: center;"><img height="20" width="20" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"></code>
-<code style="display: inline-flex; justify-content: center; align-items: center;"><img height="20" width="20"  src="https://raw.githubusercontent.com/github/explore/05d0f0dfceafd861bdf2b53559399dae7b2e2d8b/topics/figma/figma.png"></code>
-<code style="display: inline-flex; justify-content: center; align-items: center;"><img height="20" width="20"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-</div>
+<h2>🛠️ </h2>
+  <link>https://stone-mochi-94c.notion.site/2912f23b094f80c2a026f32f02a14269</link>
 
 <br/>
 <div align="center">
